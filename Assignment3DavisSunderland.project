@@ -49,14 +49,7 @@
             "fifthProgram",
             "fifthProgram.json"
           ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "extraCredit",
-            "extraCredit.json"
-          ]
+
         }
       ],
       "configxml": null,
@@ -78,7 +71,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "cityWhile",
+
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
