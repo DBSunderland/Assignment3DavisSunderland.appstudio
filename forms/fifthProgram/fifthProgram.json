@@ -63,6 +63,15 @@
         "Elements",
         "lblUserWishlist.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "fifthProgram",
+        "Elements",
+        "btnAddToWishlist.json"
+      ]
     }
   ],
   "class": "",

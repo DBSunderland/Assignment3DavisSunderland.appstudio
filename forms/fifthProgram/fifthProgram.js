@@ -7,9 +7,8 @@ lblProductDisplay.value = products
 
 let wishlist = []
 
-inptWishlistItem.onenter=function() {
-let userWishlist = lblUserWishlist.value 
+btnAddToWishlist.onclick=function() {
+let addition = inptWishlistItem.value 
+wishlist.push(inptWishlistItem.value)
 lblUserWishlist.value = wishlist
-wishlist.push(lblUserWishlist.value)
 }
-console.log(wishlist)
