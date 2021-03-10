@@ -1,3 +1,4 @@
+/*
 let cities = []
 let doneWithCities = false
 let yesNo = ""
@@ -19,4 +20,4 @@ while (i < cities.length) {
   console.log(cities[i].toLowerCase())
   i++;
   }
-
+*/
