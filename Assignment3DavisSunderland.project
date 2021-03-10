@@ -49,6 +49,7 @@
             "fifthProgram",
             "fifthProgram.json"
           ]
+
         }
       ],
       "configxml": null,
@@ -70,7 +71,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "fifthProgram",
+
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
